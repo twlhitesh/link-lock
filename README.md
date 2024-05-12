@@ -1,10 +1,10 @@
 # Link Lock
 
 [Password-protect URLs using AES in the
-browser.](https://jstrieb.github.io/link-lock)
+browser.](https://twlhitesh.github.io/link-lock)
 
 Link Lock now supports secure, hidden bookmarks via bookmark knocking! Read
-more [here](https://jstrieb.github.io/projects/hidden-bookmarks).
+more [here](https://github.com/twlhitesh).
 
 
 
@@ -25,7 +25,7 @@ Link Lock has many uses:
 
 - Store private bookmarks on a shared computer
 - Encrypt entire web pages (via [URL
-  Pages](https://github.com/jstrieb/urlpages))
+  Pages](https://github.com/twlhitesh))
 - Send sensitive links over public or insecure channels (e.g., posting links
   to a public website that require a password to access)
 - Implement simple CAPTCHAs – particularly effective against basic web scrapers
