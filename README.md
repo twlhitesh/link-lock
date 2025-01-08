@@ -4,7 +4,7 @@
 browser.](https://twlhitesh.github.io/link-lock)
 
 Link Lock now supports secure, hidden bookmarks via bookmark knocking! Read
-more [here](https://github.com/twlhitesh).
+more [here](https://github.com/twlhitesh)..
 
 
 
