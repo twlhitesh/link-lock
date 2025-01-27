@@ -8,7 +8,7 @@ more [here](https://github.com/twlhitesh)..
 
 
 
-## About
+## About 
 
 Link Lock is a tool for encrypting and decrypting URLs. When a user visits an
 encrypted URL, they will be prompted for a password. If the password is
