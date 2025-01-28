@@ -1,4 +1,4 @@
-# Link Lock
+ # Link Lock
 
 [Password-protect URLs using AES in the
 browser.](https://twlhitesh.github.io/link-lock)
